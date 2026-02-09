@@ -2,11 +2,9 @@
 let numbers: number[] = [1, 2, 3, 4, 5];
 console.log(numbers);                 // [1, 2, 3, 4, 5]
 
-// Array of strings
 let fruits: string[] = ["apple", "banana", "orange"];
 console.log(fruits);                  // ["apple", "banana", "orange"]
 
-// Empty arrays
 let emptyNumbers: number[] = [];
 console.log(emptyNumbers);            // []
 
